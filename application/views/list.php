@@ -1,0 +1,1 @@
+<p>Ini Halaman List dari controller Halaman dan fungsi berita</p>
