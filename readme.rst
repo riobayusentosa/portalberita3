@@ -1,3 +1,10 @@
+*************************
+Studi Kasus Portal Berita
+*************************
+
+`Tutorial 3 <https://cakrawaladigital.com/home/news/31-portal-berita-mengkonfigurasi-url-dan-htaccess-bagian-3>`_
+
+
 ###################
 What is CodeIgniter
 ###################
